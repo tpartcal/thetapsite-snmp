@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/TestSNMP4JAgent/jar/snmp4j-agent-2.0.10a.jar"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.snmp4j.agent.test.TestAgent"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="TestSNMP4JAgent"/>
+</launchConfiguration>
